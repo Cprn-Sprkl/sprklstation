@@ -836,6 +836,7 @@
       species:
         - Shadowkin
         - Felinid
+        - Tajaran
     - !type:CharacterTraitRequirement
       traits:
         - CyberEyes
