@@ -1,20 +1,21 @@
-- type: trait
-  id: SiikMaas
-  category: TraitsSpeechLanguages
-  points: 0
-  requirements:
-    - !type:CharacterItemGroupRequirement
-      group: TraitsLanguagesBasic
-    - !type:CharacterSpeciesRequirement
-      inverted: true
-      species:
-        - Tajaran
-  functions:
-    - !type:TraitModifyLanguages
-      languagesSpoken:
-        - SiikMaas
-      languagesUnderstood:
-        - SiikMaas
+# Floof - Disabled, too many languages for single species
+# - type: trait
+#   id: SiikMaas
+#   category: TraitsSpeechLanguages
+#   points: 0
+#   requirements:
+#     - !type:CharacterItemGroupRequirement
+#       group: TraitsLanguagesBasic
+#     - !type:CharacterSpeciesRequirement
+#       inverted: true
+#       species:
+#         - Tajaran
+#   functions:
+#     - !type:TraitModifyLanguages
+#       languagesSpoken:
+#         - SiikMaas
+#       languagesUnderstood:
+#         - SiikMaas
 
 - type: trait
   id: NalRasan
@@ -26,6 +27,10 @@
     - !type:CharacterSpeciesRequirement
       species:
         - Tajaran
+        - Felinid
+        - Vulpkanin
+        - Rodentia
+        - Kitsune
   functions:
     - !type:TraitModifyLanguages
       languagesSpoken:
@@ -43,6 +48,10 @@
     - !type:CharacterSpeciesRequirement
       species:
         - Tajaran
+        - Felinid
+        - Vulpkanin
+        - Rodentia
+        - Kitsune
   functions:
     - !type:TraitModifyLanguages
       languagesSpoken:
@@ -50,36 +59,38 @@
       languagesUnderstood:
         - SiikTajr
 
-- type: trait
-  id: YaSsa
-  category: TraitsSpeechLanguages
-  points: 0
-  requirements:
-    - !type:CharacterItemGroupRequirement
-      group: TraitsLanguagesBasic
-    - !type:CharacterSpeciesRequirement
-      species:
-        - Tajaran
-  functions:
-    - !type:TraitModifyLanguages
-      languagesSpoken:
-        - YaSsa
-      languagesUnderstood:
-        - YaSsa
+# Floof - Disabled, too many languages for single species
+# - type: trait
+#   id: YaSsa
+#   category: TraitsSpeechLanguages
+#   points: 0
+#   requirements:
+#     - !type:CharacterItemGroupRequirement
+#       group: TraitsLanguagesBasic
+#     - !type:CharacterSpeciesRequirement
+#       species:
+#         - Tajaran
+#   functions:
+#     - !type:TraitModifyLanguages
+#       languagesSpoken:
+#         - YaSsa
+#       languagesUnderstood:
+#         - YaSsa
 
-- type: trait
-  id: Delvahii
-  category: TraitsSpeechLanguages
-  points: 0
-  requirements:
-    - !type:CharacterItemGroupRequirement
-      group: TraitsLanguagesBasic
-    - !type:CharacterSpeciesRequirement
-      species:
-        - Tajaran
-  functions:
-    - !type:TraitModifyLanguages
-      languagesSpoken:
-        - Delvahii
-      languagesUnderstood:
-        - Delvahii
+# Floof - Disabled, too many languages for single species
+# - type: trait
+#   id: Delvahii
+#   category: TraitsSpeechLanguages
+#   points: 0
+#   requirements:
+#     - !type:CharacterItemGroupRequirement
+#       group: TraitsLanguagesBasic
+#     - !type:CharacterSpeciesRequirement
+#       species:
+#         - Tajaran
+#   functions:
+#     - !type:TraitModifyLanguages
+#       languagesSpoken:
+#         - Delvahii
+#       languagesUnderstood:
+#         - Delvahii

@@ -93,10 +93,10 @@
   - type: LanguageKnowledge
     speaks:
     - TauCetiBasic
-    - SiikMaas
+    - SiikTajr #Floof - Changed default, SiikMaas disabled
     understands:
     - TauCetiBasic
-    - SiikMaas
+    - SiikTajr #Floof - Changed default, SiikMaas disabled
   - type: Tag
     tags:
     - CanPilot

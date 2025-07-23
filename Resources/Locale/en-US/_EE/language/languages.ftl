@@ -4,11 +4,11 @@ language-SiikMaas-description =
 
 language-NalRasan-name = Nal'rasan
 language-NalRasan-description =
-    A body-language-heavy dialect created by M'sai hunters for stealth, later adopted by rebels for covert communication during the Great War.
+    A body-language-heavy dialect created for stealth.
 
 language-SiikTajr-name = Siik'tajr
 language-SiikTajr-description =
-    A revolutionary language blending Siik'maas and Nal'rasan, designed for secrecy during the overthrow of the plutocracy and used heavily in the Great War.
+    Language native to the Tajara, it employs both verbal and non-verbal elements.
 
 language-YaSsa-name = Ya'ssa
 language-YaSsa-description =

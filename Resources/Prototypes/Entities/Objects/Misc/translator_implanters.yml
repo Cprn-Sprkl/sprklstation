@@ -100,10 +100,11 @@
   - type: Implanter
     implant: ChittinTranslatorImplant
 
-- type: entity
-  id: SiikMaasTranslatorImplanter
-  parent: [ BaseTranslatorImplanter ]
-  name: siik'maas translator implant
-  components:
-  - type: Implanter
-    implant: SiikMaasTranslatorImplant
+# Floof - SiikMaas disabled
+# - type: entity
+#   id: SiikMaasTranslatorImplanter
+#   parent: [ BaseTranslatorImplanter ]
+#   name: siik'maas translator implant
+#   components:
+#   - type: Implanter
+#     implant: SiikMaasTranslatorImplant
