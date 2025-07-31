@@ -355,6 +355,7 @@
       inverted: true
       species:
         - Vulpkanin # This trait functions exactly as-is for the Vulpkanin trait.
+        - Tajaran #Floof - Has innate temperature protection
   functions:
     - !type:TraitReplaceComponent
       components:
