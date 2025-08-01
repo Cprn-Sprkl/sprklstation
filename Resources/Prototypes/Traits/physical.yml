@@ -368,7 +368,8 @@
 - type: trait
   id: Talons
   category: Physical
-  points: -1
+  points: 0
+  slots: 0
   requirements:
     - !type:CharacterSpeciesRequirement
       inverted: true
@@ -395,7 +396,8 @@
 - type: trait
   id: Claws
   category: Physical
-  points: -1
+  points: 0
+  slots: 0
   requirements:
     - !type:CharacterSpeciesRequirement
       inverted: true
@@ -429,6 +431,7 @@
   id: NaturalWeaponRemoval
   category: Physical
   points: 0
+  slots: 0
   requirements:
     - !type:CharacterSpeciesRequirement
       inverted: true
@@ -605,6 +608,7 @@
   id: CyberEyes
   category: Physical
   points: -4
+  slots: 0
   requirements:
     - !type:CharacterJobRequirement
       inverted: true
@@ -633,6 +637,12 @@
   category: Physical
   points: -4
   requirements:
+    - !type:CharacterJobRequirement
+      inverted: true
+      jobs:
+        - Prisoner # Bionics should be "Confiscated" from long term prisoners.
+        - Gladiator # Floof
+        - Anomaly
     - !type:CharacterTraitRequirement
       traits:
         - CyberEyes
@@ -647,6 +657,12 @@
   category: Physical
   points: -1
   requirements:
+    - !type:CharacterJobRequirement
+      inverted: true
+      jobs:
+        - Prisoner # Bionics should be "Confiscated" from long term prisoners.
+        - Gladiator # Floof
+        - Anomaly
     - !type:CharacterDepartmentRequirement
       departments:
         - Security
@@ -669,6 +685,12 @@
   category: Physical
   points: -1
   requirements:
+    - !type:CharacterJobRequirement
+      inverted: true
+      jobs:
+        - Prisoner # Bionics should be "Confiscated" from long term prisoners.
+        - Gladiator # Floof
+        - Anomaly
     - !type:CharacterTraitRequirement
       traits:
         - CyberEyes
@@ -694,6 +716,12 @@
   category: Physical
   points: -1
   requirements:
+    - !type:CharacterJobRequirement
+      inverted: true
+      jobs:
+        - Prisoner # Bionics should be "Confiscated" from long term prisoners.
+        - Gladiator # Floof
+        - Anomaly
     - !type:CharacterTraitRequirement
       traits:
         - CyberEyes
@@ -809,6 +837,7 @@
       inverted: true
       jobs:
         - Prisoner # Bionics should be "Confiscated" from long term prisoners.
+        - Gladiator # Floof
         - Anomaly
   functions:
     - !type:TraitPushDescription
@@ -832,6 +861,12 @@
   category: Physical
   points: -4
   requirements:
+    - !type:CharacterJobRequirement
+      inverted: true
+      jobs:
+        - Prisoner # Bionics should be "Confiscated" from long term prisoners.
+        - Gladiator # Floof
+        - Anomaly
     - !type:CharacterSpeciesRequirement
       inverted: true
       species:
@@ -862,6 +897,7 @@
 #      inverted: true
 #      jobs:
 #        - Prisoner # Bionics should be "Confiscated" from long term prisoners.
+#        - Gladiator # Floof
 #        - Anomaly
 #    - !type:CharacterTraitRequirement
 #      traits:
