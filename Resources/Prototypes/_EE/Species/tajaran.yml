@@ -72,8 +72,12 @@
     HeadSide: MobHumanoidAnyMarking
     Hair: MobHumanoidAnyMarking
     FacialHair: MobHumanoidAnyMarking
+    Face: MobHumanoidAnyMarking # Floof
     Snout: MobHumanoidAnyMarking
     Chest: MobTajaranTorso
+    Underwear: MobHumanoidAnyMarking # Floofstation
+    Undershirt: MobHumanoidAnyMarking # Floofstation
+    Wings: MobHumanoidAnyMarking # Floof
     Eyes: MobTajaranEyes
     LArm: MobTajaranLArm
     RArm: MobTajaranRArm
@@ -82,6 +86,8 @@
     LLeg: MobTajaranLLeg
     RLeg: MobTajaranRLeg
     Tail: MobHumanoidAnyMarking
+    TailBehind: MobHumanoidAnyMarking
+    TailOversuit: MobHumanoidAnyMarking
     LFoot: MobTajaranLFoot
     RFoot: MobTajaranRFoot
 
