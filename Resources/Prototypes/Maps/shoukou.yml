@@ -63,10 +63,10 @@
           Prisoner: [ 2, 2 ]
           SeniorOfficer: [ 1, 1 ]
           #justice added by FloofStation
-          ChiefJustice: [ 1, 1 ] #FloofStation
-          Clerk: [ 1, 1 ] #FloofStation
+          ChiefJustice: [ 0, 1 ] #FloofStation
+          Clerk: [ 0, 1 ] #FloofStation
           Lawyer: [ 1, 1 ] #FloofStation
-          Prosecutor: [ 1, 1 ] #FloofStation
+          Prosecutor: [ 0, 1 ] #FloofStation
           #Science
           ResearchDirector: [ 1, 1 ]
           Scientist: [ 2, 4 ]

@@ -69,11 +69,11 @@
             Brigmedic: [ 1, 1 ]
             Prisoner: [ 2, 3 ]
             SeniorOfficer: [ 1, 1 ]
-            #justice added by FloofStation
-            ChiefJustice: [ 1, 1 ] #FloofStation
-            Clerk: [ 1, 1 ] #FloofStation
+          #justice added by FloofStation
+            ChiefJustice: [ 0, 1 ] #FloofStation
+            Clerk: [ 0, 1 ] #FloofStation
             Lawyer: [ 2, 2 ] #FloofStation
-            Prosecutor: [ 1, 1 ] #FloofStation
+            Prosecutor: [ 0, 1 ] #FloofStation
           #supply
             Quartermaster: [ 1, 1 ]
             InventorySpecialist: [ 1, 1 ] #FloofStation

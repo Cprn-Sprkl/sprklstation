@@ -54,10 +54,10 @@
             Warden: [ 1, 1 ]
             SeniorOfficer: [ 1, 1 ]
           #justice added by FloofStation
-            ChiefJustice: [ 1, 1 ] #FloofStation
-            Clerk: [ 1, 1 ] #FloofStation
+            ChiefJustice: [ 0, 1 ] #FloofStation
+            Clerk: [ 0, 1 ] #FloofStation
             Lawyer: [ 2, 2 ] #FloofStation
-            Prosecutor: [ 1, 1 ] #FloofStation
+            Prosecutor: [ 0, 1 ] #FloofStation
           #service
             Bartender: [ 2, 2 ]
             Botanist: [ 2, 3 ]
