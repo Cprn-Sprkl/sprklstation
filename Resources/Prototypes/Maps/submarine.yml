@@ -51,6 +51,11 @@
             SecurityCadet: [ 3, 4 ]
             Warden: [ 1, 1 ]
             SeniorOfficer: [ 1, 1 ]
+          #justice added by FloofStation
+            ChiefJustice: [ 1, 1 ] #FloofStation
+            Clerk: [ 1, 1 ] #FloofStation
+            Lawyer: [ 2, 2 ] #FloofStation
+            Prosecutor: [ 1, 1 ] #FloofStation
           #service
             Bartender: [ 2, 3 ]
             Botanist: [ 2, 4 ]
@@ -59,7 +64,6 @@
             Clown: [ 1, 2 ]
             HeadOfPersonnel: [ 1, 1 ]
             Janitor: [ 2, 3 ]
-            Lawyer: [ 2, 2 ]
             MartialArtist: [ 2, 2 ]
             Mime: [ 1, 2 ]
             Musician: [ 2, 2 ]

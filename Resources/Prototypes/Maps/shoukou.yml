@@ -25,7 +25,6 @@
           Passenger: [ -1, -1 ]
           ServiceWorker: [ 1, 2]
           Reporter: [ 0, 1 ]
-          Lawyer: [ 1, 1 ]
           Bartender: [ 1, 2 ]
           Botanist: [ 1, 2 ]
           MartialArtist: [ 2, 3 ]
@@ -63,6 +62,11 @@
           Brigmedic: [ 1, 1 ]
           Prisoner: [ 2, 2 ]
           SeniorOfficer: [ 1, 1 ]
+          #justice added by FloofStation
+          ChiefJustice: [ 1, 1 ] #FloofStation
+          Clerk: [ 1, 1 ] #FloofStation
+          Lawyer: [ 1, 1 ] #FloofStation
+          Prosecutor: [ 1, 1 ] #FloofStation
           #Science
           ResearchDirector: [ 1, 1 ]
           Scientist: [ 2, 4 ]

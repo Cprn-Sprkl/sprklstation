@@ -32,7 +32,6 @@
           Boxer: [ 2, 2 ]
           Chef: [ 1, 2 ]
           Clown: [ 1, 1 ]
-          Lawyer: [ 2, 2 ]
           Reporter: [ 0, 2 ]
           Musician: [ 1, 1 ]
           Janitor: [ 1, 2 ]
@@ -70,6 +69,11 @@
           Brigmedic: [ 1, 1 ]
           Prisoner: [ 2, 3 ]
           SeniorOfficer: [ 1, 1 ]
+        #justice added by FloofStation
+          ChiefJustice: [ 1, 1 ] #FloofStation
+          Clerk: [ 1, 1 ] #FloofStation
+          Lawyer: [ 2, 2 ] #FloofStation
+          Prosecutor: [ 1, 1 ] #FloofStation
         #supply
           Quartermaster: [ 1, 1 ]
           InventorySpecialist: [ 1, 1 ] #FloofStation
