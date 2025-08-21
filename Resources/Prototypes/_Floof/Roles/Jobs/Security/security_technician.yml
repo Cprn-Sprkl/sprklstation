@@ -38,7 +38,7 @@
     head: ClothingHeadHelmetBasic
     outerClothing: ClothingOuterHardsuitSecTech
     id: SecurityTechnicianPDA
-    ears: ClothingHeadsetSecurity
+    ears: ClothingHeadsetSecTech
     gloves: ClothingHandsGlovesCombat
   innerClothingSkirt: ClothingUniformJumpskirtSec
   satchel: ClothingBackpackSatchelSecurity
