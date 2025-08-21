@@ -33,9 +33,9 @@
     jumpsuit: ClothingUniformJumpsuitSec
     back: ClothingBackpackSecurity
     shoes: ClothingShoesBootsCombatFilled
-    eyes: ClothingEyesGlassesMeson
     belt: ClothingBeltUtilityEngineering
-    head: ClothingHeadHelmetBasic
+    head: ClothingHeadHelmetSecTech
+    eyes: ClothingEyesHudDiagnostic
     outerClothing: ClothingOuterHardsuitSecTech
     id: SecurityTechnicianPDA
     ears: ClothingHeadsetSecTech
