@@ -1,11 +1,11 @@
 {
-  "version": 1,
-  "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e, harpy version by VMSolidus. Vox state made by Flareguy for SS14, lamia & segment by @noctyrnal, all sprites recoloured by sprkl",
-  "size": {
-    "x": 32,
-    "y": 32
-  },
+    "version": 1,
+    "license": "CC0-1.0",
+    "copyright": "Original work by TJohnson. lamia & segment by @noctyrnal, sprites edited and recoloured by sprkl",
+    "size": {
+        "x": 32,
+        "y": 32
+    },
     "states": [
         {
             "name": "icon"
@@ -15,11 +15,7 @@
             "directions": 4
         },
         {
-            "name": "equipped-OUTERCLOTHING-vox",
-            "directions": 4
-        },
-        {
-            "name": "equipped-OUTERCLOTHING-resomi",
+            "name": "equipped-OUTERCLOTHING-harpy",
             "directions": 4
         },
         {
@@ -28,14 +24,6 @@
         },
         {
             "name": "inhand-right",
-            "directions": 4
-        },
-        {
-            "name": "equipped-OUTERCLOTHING-harpy",
-            "directions": 4
-        },
-        {
-            "name": "equipped-OUTERCLOTHING-lamia",
             "directions": 4
         },
         {
