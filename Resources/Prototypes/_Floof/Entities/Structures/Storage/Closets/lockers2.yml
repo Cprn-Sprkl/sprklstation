@@ -28,21 +28,6 @@
     stateDoorOpen: camo_open
     stateDoorClosed: camo_door
 
-- type: entity
-  id: LockerSurgeonGeneral
-  name: central command surgeon general locker
-  parent: LockerBaseSecure
-  components:
-  - type: Sprite
-    sprite: _Floof/Structures/Lockers/surgeongeneral.rsi
-  - type: Appearance
-  - type: AccessReader
-    access: [["CentralCommand"]]
-  - type: EntityStorageVisuals
-    stateBaseClosed: surgeon_secure
-    stateDoorOpen: surgeon_secure_open
-    stateDoorClosed: surgeon_secure_door
-
 # Security Technician
 - type: entity
   id: LockerSecurityTechnician
