@@ -12,7 +12,7 @@
     stateBaseClosed: surgeon_secure
     stateDoorOpen: surgeon_secure_open
     stateDoorClosed: surgeon_secure_door
-    
+
 - type: entity
   id: LockerFreelancerCamo
   name: Generic Freelancer secure locker
@@ -27,3 +27,32 @@
     stateBaseClosed: camo
     stateDoorOpen: camo_open
     stateDoorClosed: camo_door
+
+- type: entity
+  id: LockerSurgeonGeneral
+  name: central command surgeon general locker
+  parent: LockerBaseSecure
+  components:
+  - type: Sprite
+    sprite: _Floof/Structures/Lockers/surgeongeneral.rsi
+  - type: Appearance
+  - type: AccessReader
+    access: [["CentralCommand"]]
+  - type: EntityStorageVisuals
+    stateBaseClosed: surgeon_secure
+    stateDoorOpen: surgeon_secure_open
+    stateDoorClosed: surgeon_secure_door
+
+# Security Technician
+- type: entity
+  id: LockerSecurityTechnician
+  parent: [IdLockableBaseSecurity, LockerBaseSecure] # Floof - added id lock parent
+  name: security technician's locker
+  components:
+  - type: Appearance
+  - type: EntityStorageVisuals
+    stateBaseClosed: sec
+    stateDoorOpen: sec_open
+    stateDoorClosed: sec_door
+  - type: AccessReader
+    access: [["SecTech"], ["Armory"]]
