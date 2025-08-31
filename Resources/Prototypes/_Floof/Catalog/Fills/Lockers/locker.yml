@@ -133,8 +133,6 @@
     - id: ClothingOuterVestHazard
     - id: ClothingUniformJumpsuitSec
     - id: ClothingUniformJumpskirtSec
-    - id: ClothingHeadsetSecTech
-    - id: SecurityTechnicianPDA
     - id: CableHVStack
     - id: CableApcStack
     - id: CableMVStack
@@ -164,8 +162,6 @@
     - id: ClothingOuterVestHazard
     - id: ClothingUniformJumpsuitSec
     - id: ClothingUniformJumpskirtSec
-    - id: ClothingHeadsetSecTech
-    - id: SecurityTechnicianPDA
     - id: CableHVStack
     - id: CableApcStack
     - id: CableMVStack
