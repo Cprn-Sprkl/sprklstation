@@ -33,10 +33,10 @@
         - Medical
         - Epistemics
         - Miscellaneous # Floof - Add loadouts for Miscellaneous department
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutUniformJumpskirtColorWhite
@@ -55,10 +55,10 @@
         - Medical
         - Epistemics
         - Miscellaneous # Floof - Add loadouts for Miscellaneous department
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutUniformJumpsuitFlannel
@@ -70,10 +70,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutUniformJumpskirtCasualBlue
@@ -89,7 +89,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutUniformJumpsuitCasualPurple
@@ -105,7 +105,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutUniformJumpskirtCasualPurple
@@ -121,7 +121,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutUniformJumpsuitCasualRed
@@ -133,10 +133,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutUniformJumpskirtCasualRed
@@ -148,10 +148,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutUniformJumpsuitTshirtJeans
@@ -167,7 +167,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutUniformJumpsuitTshirtJeansGray
@@ -179,10 +179,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutUniformJumpsuitTshirtJeansPeach
@@ -194,10 +194,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutUniformJumpsuitJeansGreen
@@ -213,7 +213,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutUniformJumpsuitJeansRed
@@ -225,10 +225,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutUniformJumpsuitJeansBrown
@@ -244,7 +244,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutUniformJumpsuitLostTourist
@@ -260,7 +260,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 # Hawaiian shirts
 - type: loadout
@@ -277,7 +277,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutUniformJumpsuitHawaiBlue
@@ -293,7 +293,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutUniformJumpsuitHawaiRed
@@ -305,10 +305,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutUniformJumpsuitHawaiYellow
@@ -324,7 +324,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 # AutoDrobe clothes
 - type: loadout
@@ -337,10 +337,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutUniformJumpsuitSober
@@ -352,10 +352,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutUniformSkirtTurtle
@@ -367,10 +367,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutUniformGeisha
@@ -382,10 +382,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutUniformCostumeArcDress
@@ -401,7 +401,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutUniformCostumeMioSkirt
@@ -417,7 +417,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutUniformCostumeNaota
@@ -433,7 +433,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutUniformJumpsuitLoungewear
@@ -445,10 +445,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 # Bartender clothes
 - type: loadout
@@ -465,7 +465,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutUniformJumpskirtBartender
@@ -481,7 +481,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 # Kendo
 - type: loadout
@@ -495,10 +495,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutUniformMartialGi
@@ -516,7 +516,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 # Kimono
 - type: loadout
@@ -535,7 +535,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutClothingKimonoBlue
@@ -552,7 +552,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutClothingKimonoPink
@@ -569,7 +569,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutClothingKimonoPurple
@@ -586,7 +586,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutClothingKimonoSky
@@ -603,7 +603,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutClothingKimonoGreen
@@ -620,7 +620,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 # Gakuran
 - type: loadout
@@ -634,10 +634,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 # Schoolgirl uniform
 - type: loadout
@@ -650,10 +650,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutUniformSchoolgirlBlue
@@ -669,7 +669,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutUniformSchoolgirlCyan
@@ -685,7 +685,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutUniformSchoolgirlGreen
@@ -701,7 +701,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutUniformSchoolgirlOrange
@@ -717,7 +717,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutUniformSchoolgirlPink
@@ -733,7 +733,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutUniformSchoolgirlPurple
@@ -749,7 +749,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutUniformSchoolgirlRed
@@ -761,10 +761,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutUniformSchoolgirlDusk
@@ -780,7 +780,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 - type: loadout
   id: LoadoutUniformSchoolgirlBlazerTan
@@ -796,7 +796,7 @@
       inverted: true
       departments:
         - Security
-        - Command
+        # - Command | Floof
 
 # MNK Uniforms
 - type: loadout
@@ -810,10 +810,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutClothingMNKUnderGarment
@@ -826,10 +826,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutClothingMNKGymBra
@@ -842,10 +842,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutClothingMNKDressBlack
@@ -857,10 +857,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutClothingMNKBlackOveralls
@@ -872,10 +872,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutClothingMNKBlackShoulder
@@ -887,10 +887,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutClothingMNKTracksuitBlack
@@ -902,10 +902,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 # Suits
 - type: loadout
@@ -918,10 +918,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutClothingJumpsuitSuitBlackAlt
@@ -933,10 +933,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutClothingJumpsuitSuitBlackMob
@@ -948,10 +948,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutClothingJumpsuitSuitBrown
@@ -966,7 +966,7 @@
     - !type:CharacterDepartmentRequirement
       inverted: true
       departments:
-        - Command
+        # - Command | Floof
         - Security
 
 - type: loadout
@@ -979,10 +979,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutClothingJumpsuitSuitBrownMob
@@ -994,10 +994,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutClothingJumpsuitSuitWhite
@@ -1013,7 +1013,7 @@
     - !type:CharacterDepartmentRequirement
       inverted: true
       departments:
-        - Command
+        # - Command | Floof
         - Security
 
 - type: loadout
@@ -1027,10 +1027,10 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command
 
 - type: loadout
   id: LoadoutClothingJumpsuitSuitWhiteMob
@@ -1043,7 +1043,7 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutUniformsCivilian
-    - !type:CharacterDepartmentRequirement
-      inverted: true
-      departments:
-        - Command
+    # - !type:CharacterDepartmentRequirement | Floof
+    #   inverted: true
+    #   departments:
+    #     - Command

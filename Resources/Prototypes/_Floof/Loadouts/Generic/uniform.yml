@@ -23,7 +23,7 @@
        inverted: true
        departments:
          - Security
-         - Command
+        #  - Command | Floof
 
 - type: loadout
   id: LoadoutUniformClassicalMaidDress
@@ -39,7 +39,7 @@
        inverted: true
        departments:
          - Security
-         - Command
+        #  - Command | Floof
 
 - type: loadout
   id: LoadoutUniformJumpskirtJanimaid
@@ -55,7 +55,7 @@
        inverted: true
        departments:
          - Security
-         - Command
+        #  - Command | Floof
 
 
 - type: loadout
@@ -72,7 +72,7 @@
        inverted: true
        departments:
          - Security
-         - Command
+        #  - Command | Floof
 
 - type: loadout
   id: LoadoutUniformJumpskirtTacticool
@@ -88,7 +88,7 @@
        inverted: true
        departments:
          - Security
-         - Command
+        #  - Command | Floof
 
 - type: loadout
   id: LoadoutUniformJumpsuitTacticool
@@ -104,7 +104,7 @@
        inverted: true
        departments:
          - Security
-         - Command
+        #  - Command | Floof
 
 #Floofstation - Sock ect Uniform add ins
 - type: loadout
@@ -232,7 +232,7 @@
        inverted: true
        departments:
          - Security
-         - Command
+        #  - Command | Floof
 
 - type: loadout
   id: LoadoutUniformRedDancersGarb
@@ -248,7 +248,7 @@
        inverted: true
        departments:
          - Security
-         - Command
+        #  - Command | Floof
 
 - type: loadout
   id: LoadoutUniformBandedDancersGarb
@@ -264,7 +264,7 @@
        inverted: true
        departments:
          - Security
-         - Command
+        #  - Command | Floof
 
 - type: loadout
   id: LoadoutUniformRedSidelessDress
@@ -280,7 +280,7 @@
        inverted: true
        departments:
          - Security
-         - Command
+        #  - Command | Floof
 
 - type: loadout
   id: LoadoutUniformPurpleNightclubDress
@@ -296,7 +296,7 @@
        inverted: true
        departments:
          - Security
-         - Command
+        #  - Command | Floof
 
 - type: loadout
   id: LoadoutUniformBlackPetticoatDress
@@ -312,7 +312,7 @@
        inverted: true
        departments:
          - Security
-         - Command
+        #  - Command | Floof
 
 - type: loadout
   id: LoadoutUniformBlueFancyLad
@@ -328,7 +328,7 @@
        inverted: true
        departments:
          - Security
-         - Command
+        #  - Command | Floof
 
 - type: loadout
   id: LoadoutUniformGrayJumpSkirt
@@ -344,5 +344,5 @@
        inverted: true
        departments:
          - Security
-         - Command
+        #  - Command | Floof
 
