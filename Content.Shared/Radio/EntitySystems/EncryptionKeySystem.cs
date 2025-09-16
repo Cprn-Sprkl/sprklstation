@@ -241,6 +241,14 @@ public sealed partial class EncryptionKeySystem : EntitySystem
         {
             proto = _protoManager.Index<RadioChannelPrototype>(id);
 
+            //Floof - Hide Syndicate key from examine
+            if (proto.ID == "Syndicate")
+            {
+                return;
+            }
+            ;
+            //Floof - End
+
             var key = id == SharedChatSystem.CommonChannel
                 ? SharedChatSystem.RadioCommonPrefix.ToString()
                 : $"{SharedChatSystem.RadioChannelPrefix}{proto.KeyCode}";
