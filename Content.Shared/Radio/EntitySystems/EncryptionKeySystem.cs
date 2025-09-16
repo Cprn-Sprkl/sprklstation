@@ -242,11 +242,10 @@ public sealed partial class EncryptionKeySystem : EntitySystem
             proto = _protoManager.Index<RadioChannelPrototype>(id);
 
             //Floof - Hide Syndicate key from examine
-            if (proto.ID == "Syndicate")
+            if (proto.ID == "Syndicate" & !HasComp<EncryptionKeyComponent>(examineEvent.Examined))
             {
-                return;
+                continue;
             }
-            ;
             //Floof - End
 
             var key = id == SharedChatSystem.CommonChannel
@@ -264,6 +263,12 @@ public sealed partial class EncryptionKeySystem : EntitySystem
         {
             if (HasComp<HeadsetComponent>(examineEvent.Examined))
             {
+                //Floof - Hide Syndicate key from examine
+                if (defaultChannel == "Syndicate")
+                {
+                    return;
+                }
+                //Floof - End
                 var msg = Loc.GetString("examine-headset-default-channel",
                 ("prefix", SharedChatSystem.DefaultChannelPrefix),
                 ("channel", defaultChannel),
