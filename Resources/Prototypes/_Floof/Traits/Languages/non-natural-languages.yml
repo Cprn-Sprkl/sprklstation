@@ -38,6 +38,25 @@
       languagesUnderstood:
         - Nehina
 
+- type: trait
+  id: Mouse
+  category: TraitsSpeechLanguages
+  points: 0
+  slots: 0
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: TraitsLanguagesBasic
+    - !type:CharacterSpeciesRequirement
+      inverted: true
+      species:
+        - Rodentia
+        - Shadowkin
+  functions:
+    - !type:TraitModifyLanguages
+      languagesSpoken:
+        - Mouse
+      languagesUnderstood:
+        - Mouse
 
 - type: trait
   id: Canilunzt
